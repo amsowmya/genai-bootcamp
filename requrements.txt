@@ -15,3 +15,4 @@ wandb
 spacy
 torchinfo 
 langchain_google_genai
+pypdf
