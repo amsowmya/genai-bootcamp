@@ -17,3 +17,4 @@ torchinfo
 langchain_google_genai
 pypdf
 langchain_pinecone
+langchain_experimental
